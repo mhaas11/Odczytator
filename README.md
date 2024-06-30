@@ -26,19 +26,19 @@ cd twoje/repo
 Uruchomienie skryptu:
 
 ```sh
-python skrypt.py sciezka/do/obrazu
+python skrypt.py sciezka/do/rejestracji
 ```
 
 Na przykład, jeśli masz obraz w folderze images:
 
 ```sh
-python skrypt.py images/license_plate.jpg
+python skrypt.py images/rejestracja.jpg
 Sprawdzenie ścieżki do pliku:
 ```
 Upewnij się, że ścieżka do pliku obrazu jest poprawna. Jeśli plik znajduje się w tym samym katalogu co skrypt, wystarczy podać nazwę pliku:
 
 ```sh
-python skrypt.py license_plate.jpg
+python skrypt.py rejestracja.jpg
 ```
 ## Autor
 Maksymilian Haas 52686
