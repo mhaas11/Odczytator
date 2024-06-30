@@ -40,3 +40,6 @@ Upewnij się, że ścieżka do pliku obrazu jest poprawna. Jeśli plik znajduje 
 ```sh
 python skrypt.py license_plate.jpg
 ```
+
+###Autor
+Maksymilian Haas 52686
