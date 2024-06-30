@@ -15,3 +15,24 @@ Możesz zainstalować te zależności, wykonując poniższe polecenie:
 
 ```sh
 pip install easyocr opencv-python matplotlib
+
+## Użycie
+Klonowanie repozytorium:
+
+```sh
+git clone https://github.com/twoje/repo.git
+cd twoje/repo
+Uruchomienie skryptu:
+
+```sh
+python skrypt.py sciezka/do/obrazu
+Na przykład, jeśli masz obraz w folderze images:
+
+```sh
+python skrypt.py images/license_plate.jpg
+Sprawdzenie ścieżki do pliku:
+
+Upewnij się, że ścieżka do pliku obrazu jest poprawna. Jeśli plik znajduje się w tym samym katalogu co skrypt, wystarczy podać nazwę pliku:
+
+```sh
+python skrypt.py license_plate.jpg
