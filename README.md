@@ -41,5 +41,6 @@ Upewnij się, że ścieżka do pliku obrazu jest poprawna. Jeśli plik znajduje 
 python skrypt.py license_plate.jpg
 ```
 
-###Autor
+##Autor
+
 Maksymilian Haas 52686
