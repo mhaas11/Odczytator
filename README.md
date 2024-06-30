@@ -23,12 +23,14 @@ Klonowanie repozytorium:
 git clone https://github.com/twoje/repo.git
 cd twoje/repo
 ```
-##Uruchomienie skryptu:
+Uruchomienie skryptu:
 
 ```sh
 python skrypt.py sciezka/do/obrazu
-Na przykład, jeśli masz obraz w folderze images:
 ```
+
+Na przykład, jeśli masz obraz w folderze images:
+
 ```sh
 python skrypt.py images/license_plate.jpg
 Sprawdzenie ścieżki do pliku:
